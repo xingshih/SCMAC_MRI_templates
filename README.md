@@ -26,12 +26,12 @@ All volume files are stored in the nifti (.nii.gz) format.
 		- T1w template asymmetric- **SCMAC-MRI63_Asymmetric.Template.nii.gz**
 		- T1w template symmertic - **SCMAC-MRI63_Symmetric.Template.nii.gz**
 	+ Probabilisitic Tissue Segmentation Maps
-		- Gray matter asymmetric- **SCMAC-MRI63-grey_Asymmetric.nii.gz**
-	    - Gray matter symmetric- **SCMAC-MRI63-grey_Symmetric.nii.gz**
-		- White matter asymmetric- **SCMAC-MRI63-white_Asymmetric.nii.gz**
-		- White matter symmetric- **SCMAC-MRI63-white_Symmetric.nii.gz**
-		- Cerebral spinal fluid asymmetric- **SCMAC-MRI63-csf_Asymmetric.nii.gz**
-		- Cerebral spinal fluid symmetric- **SCMAC-MRI63-csf_Asymmetric.nii.gz**
+		- Gray matter asymmetric - **SCMAC-MRI63-grey_Asymmetric.nii.gz**
+	    - Gray matter symmetric - **SCMAC-MRI63-grey_Symmetric.nii.gz**
+		- White matter asymmetric - **SCMAC-MRI63-white_Asymmetric.nii.gz**
+		- White matter symmetric - **SCMAC-MRI63-white_Symmetric.nii.gz**
+		- Cerebral spinal fluid asymmetric - **SCMAC-MRI63-csf_Asymmetric.nii.gz**
+		- Cerebral spinal fluid symmetric - **SCMAC-MRI63-csf_Symmetric.nii.gz**
 	    
 - SCMAC_DTI63 volumes
 	+ SCMAC_DTI volumes (asymmetric)
