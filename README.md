@@ -23,7 +23,7 @@ Otherwise, on the [SCMAC_MRI_templates repository homepage](https://github.com/x
 All volume files are stored in the nifti (.nii.gz) format.
 
 - SCMAC_MRI63 volumes
-	+ SCMAC_MRI volume
+	+ SCMAC_MRI volumes
 		- SMAC T1w template - **SCMAC-MRI63_Asymmetric.Template.nii.gz**
 		- SMAC T1w template - **SCMAC-MRI63_Symmetric.Template.nii.gz**
 	+ Probabilisitic Tissue Segmentation Maps
