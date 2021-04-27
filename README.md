@@ -34,7 +34,7 @@ All volume files are stored in the nifti (.nii.gz) format.
 		- Cerebral spinal fluid - **SCMAC-MRI63-csf_Asymmetric.nii.gz**
 		- Cerebral spinal fluid - **SCMAC-MRI63-csf_Asymmetric.nii.gz**
 	    
-- SCMAC_DTI volumes
+- SCMAC_DTI63 volumes
 	+ SCMAC_DTI volumes (asymmetric)
 	    - FA.asymmetric - **SCMAC-DTI63-Fa_Asymmetric.nii.gz**
 	    - Tr.asymmetric - **SCMAC-DTI63-Tr_Asymmetric.nii.gz**
