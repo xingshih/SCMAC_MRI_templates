@@ -11,10 +11,10 @@ This README file provides an overview of the SCMAC_MRI63 template combined with 
 To download from the terminal, navigate to the directory where you want to store the SCMAC_templates repository. Then, copy and paste this command as below:
 
 ```bash
-git clone http://github.com/xsh518/SCMAC_templates.git
+git clone http://github.com/xingshih/SCMAC_templates.git
 ```
 
-Alternatively, on the [SCMAC_templates repository homepage](https://github.com/xsh518/SCMAC_templates), click the button "clone or download"...
+Alternatively, on the [SCMAC_templates repository homepage](https://github.com/xingshih/SCMAC_templates), click the button "clone or download"...
 
 
 # SCMAC_templates Files
